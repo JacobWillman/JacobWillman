@@ -2,6 +2,23 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobWillman&layout=compact)
 
+## About Me
+I’m a computer programming student passionate about building practical, user-focused software.
+I work on everything from **Python apps** and **Java projects** to **Unity games** and **Discord bots**.
+
+ I love:
+- Turning ideas into clean, functional software
+- Optimizing performance and polishing UI
+- Creating projects that are fun to build *and* fun to use
+
+### Notable Projects:
+- **Cars2U** – Full-featured vehicle sales desktop app (Python + SQLite)
+- **Pokémon Shop** – Unity Android application
+- **Space Attack** – Unity asteroid shooter with power-ups and high scores
+
+ **Portfolio:** https://jacobwillman.github.io/
+
+ ## Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
